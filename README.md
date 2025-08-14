@@ -14,6 +14,15 @@ This is a simple and interactive **Brick Breaker game** developed in **C++ using
 
 ---
 
+## Preview
+
+<p align="left">
+  <img src="brick.png" alt="Brick Game" width="400"/>
+  <img src="game_over.png" alt="Game Over" width="400"/>
+</p>
+
+---
+
 ## Prerequisites
 
 Before running the game, install the following:
@@ -46,6 +55,23 @@ Raylib is the graphical C/C++ library used to build and run this game.
 
 Download and install from: https://www.raylib.com/
 
+-- 
+
+## Steps to run:
+
+1. **Open the file `main.code-workspace` in VS Code**
+   - Do **not** just open the folder manually
+   - Right-click the `.code-workspace` file and choose “Open with VS Code”
+
+2. Make sure `main.cpp` is open in the editor
+
+3. Press `F5` (or click ▶️ Run > Start Debugging)
+
+VS Code will:
+- Run `make` to compile the game
+- Launch `main.exe` in a new window
+
+--
 
 ## Author
 Created by Nam Nguyen
