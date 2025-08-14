@@ -43,6 +43,7 @@ g++ --version
 ### 4. ✅ Install raylib 
 
 Raylib is the graphical C/C++ library used to build and run this game.
+
 Download and install from: https://www.raylib.com/
 
 
