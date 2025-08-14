@@ -55,7 +55,7 @@ Raylib is the graphical C/C++ library used to build and run this game.
 
 Download and install from: https://www.raylib.com/
 
--- 
+---
 
 ## Steps to run:
 
@@ -71,7 +71,7 @@ VS Code will:
 - Run `make` to compile the game
 - Launch `main.exe` in a new window
 
---
+---
 
 ## Author
 Created by Nam Nguyen
