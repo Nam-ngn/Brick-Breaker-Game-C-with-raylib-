@@ -11,14 +11,6 @@ This is a simple and interactive **Brick Breaker game** developed in **C++ using
 - `Enter` to restart after Game Over
 - `Esc` to quit
 - Score counter on screen
----
-
-## Preview
-
-<p align="left">
-  <img src="brick.png" alt="Brick Game" width="400"/>
-</p>
-
 
 ---
 
