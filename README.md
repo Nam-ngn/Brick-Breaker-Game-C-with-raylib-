@@ -65,7 +65,7 @@ Download and install from: https://www.raylib.com/
 
 2. Make sure `main.cpp` is open in the editor
 
-3. Press `F5` (or click ▶️ Run > Start Debugging)
+3. Press `F5` (or `Fn` + `F5`)
 
 VS Code will:
 - Run `make` to compile the game
