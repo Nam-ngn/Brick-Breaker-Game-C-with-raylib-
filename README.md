@@ -49,4 +49,5 @@ Download and install from: https://www.raylib.com/
 
 ## Author
 Created by Nam Nguyen
+
 Inspired by: https://www.youtube.com/watch?v=VLJlTaFvHo4
